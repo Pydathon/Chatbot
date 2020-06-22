@@ -10,5 +10,6 @@ Améliorations (par rapport au tutoriel) :
 
 Améliorations futures :
 
-- 
+- Améliorer la compréhension et les réponses 
+- Web-Scrapping
 
